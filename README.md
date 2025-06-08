@@ -42,7 +42,7 @@ def error_aprox(x_n, x0):
 def f(x):
     return x**3 + x**2 - 34*x - 56 
 ```
-- Ini adalah fungsi yang ingin dicari akar-nya (nilai 𝑥 yang membuat 𝑓(𝑥)=0
+- Ini adalah fungsi yang ingin dicari akar-nya (nilai 𝑥 yang membuat 𝑓(𝑥)=0)
 
 ```bash
 def bisection(xl, xu, x_true, max_iter=3, tol=1e-5):
