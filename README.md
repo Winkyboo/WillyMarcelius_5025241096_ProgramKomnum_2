@@ -125,3 +125,7 @@ bisection(xl = -2, xu = 3, x_true=2)
   - Batas bawah: `-2`
   - Batas atas: `3`
   - Nilai akar sebenarnya: `2`
+ 
+# Hasil Perhitungan Program
+![image](https://github.com/user-attachments/assets/63b328cd-d886-4aae-bb4f-25d72922d6ff)
+
